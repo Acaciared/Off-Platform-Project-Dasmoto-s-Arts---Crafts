@@ -4,4 +4,25 @@ h1 {
   font-weight: bold;
   color: khaki;
   text-align: center;
+  background: url("https://content.codecademy.com/courses/freelance-1/unit-2/pattern.jpeg");
+  background-size: cover;
+}
+
+h4 {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+
+.brushes h4 {
+  background-color: mediumspringgreen;
+}
+
+.frames h4 {
+  background-color: lightcoral;
+}
+
+.paint h4 {
+  background-color: skyblue;
 }
