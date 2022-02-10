@@ -15,6 +15,13 @@ h4 {
   color: white;
 }
 
+h5 {
+  font-family: Helvetica;
+  font-size: 18.72px;
+  font-weight: 700;
+  margin: 18.72px 0;
+}
+
 .brushes h4 {
   background-color: mediumspringgreen;
 }
