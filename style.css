@@ -26,6 +26,12 @@ p {
   font-family: Helvetica;
 }
 
+p span {
+  font-family: Helvetica;
+  font-weight: bold;
+  color: blue;
+}
+
 .brushes h4 {
   background-color: mediumspringgreen;
 }
