@@ -22,6 +22,10 @@ h5 {
   margin: 18.72px 0;
 }
 
+p {
+  font-family: Helvetica;
+}
+
 .brushes h4 {
   background-color: mediumspringgreen;
 }
